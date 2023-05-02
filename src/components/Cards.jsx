@@ -19,7 +19,7 @@ const Cards = () => {
                 <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Start Trial</button>
             </div>
             <div className='w-full bg-gray-100 shadow-xl flex flex-col p-4 rounded-lg md:my-0 my-8 hover:scale-105 duration-300'>
-                <img className='w-20 mx-auto mt-[-3rem] bg-white bg-transparent' src={Double} alt="/" />
+                <img className='w-20 mx-auto mt-[-3rem] bg-transparent' src={Double} alt="/" />
                 <h2 className='text-2xl font-bold text-center py-8'>Partnership</h2>
                 <p className='text-center text-4xl font-bold'>$199</p> 
                 <div className='text-center font-medium'>
